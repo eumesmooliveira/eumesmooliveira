@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe de Oliveira Santos 👋
 
-## Analista de QA Jr | Analista de Negócios Jr
+## Analista de QA Jr | API Testing | Postman | Cypress | Quality Assurance
 
 Profissional com experiência em testes funcionais, APIs REST, SQL, documentação de requisitos e suporte técnico.
 

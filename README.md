@@ -1,10 +1,16 @@
 # Olá, eu sou Felipe de Oliveira Santos 👋
 
 ## Analista de QA Jr | API Testing | Postman | Cypress | Quality Assurance
+## 🚀 Sobre mim
 
-Profissional com experiência em testes funcionais, APIs REST, SQL, documentação de requisitos e suporte técnico.
+Profissional com experiência em:
+- Testes Funcionais
+- APIs REST
+- SQL
+- Documentação de requisitos
+- Suporte técnico
 
-Atuação em ambientes ágeis com foco em qualidade de software, análise de sistemas e comunicação entre áreas de negócio e desenvolvimento.
+Atuação em ambientes ágeis com foco em qualidade de software.
 
 ---
 
@@ -25,10 +31,10 @@ Atuação em ambientes ágeis com foco em qualidade de software, análise de sis
 ### 🔹 Automação com Arduino
 Projeto utilizando sensor PIR, sensor ultrassônico, servo motor e display LCD I2C para automação e monitoramento.
 
-### 🔹 Testes de API REST
+### 🔹 Validação e Automação de APIs REST
 Criação de cenários de testes utilizando Postman para validação de endpoints e respostas JSON.
 
-### 🔹 Estudos com Cypress
+### 🔹 Automação E2E com Cypress
 Automação de testes end-to-end para aplicações web utilizando Cypress.
 
 ---

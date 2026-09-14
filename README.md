@@ -1,55 +1,87 @@
 # Olá, eu sou Felipe de Oliveira Santos 👋
 
-## Analista de QA Jr | API Testing | Postman | Cypress | Quality Assurance
-## 🚀 Sobre mim
+### QA Analyst | API Testing | Cypress | Postman | SQL
 
-Profissional com experiência em:
-- Testes Funcionais
-- APIs REST
-- SQL
-- Documentação de requisitos
-- Suporte técnico
+Profissional de tecnologia com experiência em **Quality Assurance, análise de sistemas e suporte**, com foco atual em **testes de software e automação de testes**.
 
-Atuação em ambientes ágeis com foco em qualidade de software.
+Tenho experiência com testes funcionais, validação de APIs REST, análise de requisitos e regras de negócio, documentação de bugs e validação de dados utilizando SQL.
+
+Atualmente também desenvolvo projetos de automação utilizando **Cypress e JavaScript**, aplicando boas práticas de testes e Integração Contínua com **GitHub Actions**.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🧪 Quality Assurance
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Testes funcionais e exploratórios
+- Testes de API REST
+- Criação e execução de cenários de teste
+- Validação de Status Codes e respostas JSON
+- Validação de regras de negócio
+- Identificação, reprodução e documentação de bugs
+- Consultas e validações de dados com SQL
+- Automação de testes com Cypress
+- Integração Contínua com GitHub Actions
 
 ---
 
-## 📌 Projetos
+## 🛠️ Tecnologias e ferramentas
 
-### 🔹 Automação com Arduino
-Projeto utilizando sensor PIR, sensor ultrassônico, servo motor e display LCD I2C para automação e monitoramento.
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-### 🔹 Validação e Automação de APIs REST
-Criação de cenários de testes utilizando Postman para validação de endpoints e respostas JSON.
+---
+
+## 🚀 Projetos em destaque
+
+### 🔹 Cypress API Automation
+Automação de testes de **APIs REST utilizando Cypress e JavaScript**, com validação de respostas HTTP, propriedades de dados e cenários positivos e negativos.
+
+O projeto possui **pipeline de Integração Contínua com GitHub Actions**, executando automaticamente a suíte de testes a cada `push` ou `pull request`.
+
+### 🔹 Automação QA Full Cycle
+Projeto de automação envolvendo testes de **API e interface**, aplicação de cenários de QA e geração de evidências de execução.
+
+### 🔹 API Testing com PyTest
+Projeto de automação de testes de API REST utilizando **Python, PyTest e Requests**, com execução automatizada em pipeline CI/CD.
+
+### 🔹 API Testing — ServeRest
+Testes automatizados de API REST envolvendo validação de endpoints, contratos JSON e diferentes ciclos de requisição.
 
 ### 🔹 Automação E2E com Cypress
-Automação de testes end-to-end para aplicações web utilizando Cypress.
+Automação de cenários **End-to-End (E2E)** para aplicações web utilizando Cypress e JavaScript.
 
 ---
 
-## 📚 Certificações
+## 🎓 Formação
 
-- Quality Assurance — Plano de Testes e Gestão de Bugs
+**Bacharelado em Ciência da Computação**  
+Universidade UNIDERP — 2025
+
+---
+
+## 📚 Certificações e estudos
+
+- Bootcamp Quality Assurance — Escola Atlântico Avanti
+- Quality Assurance: Plano de Testes e Gestão de Bugs — Alura
 - Introdução ao Teste de Software
-- HTML5 e CSS3
-- Bootcamp QA
+- Defesa de Rede — Cisco Networking Academy
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades nas áreas de **Quality Assurance, Software Testing e QA Automation**, onde eu possa contribuir com minha experiência em testes, APIs e análise de sistemas, enquanto continuo evoluindo em automação e qualidade de software.
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/eumesmooliveira
-- GitHub: github.com/eumesmooliveira
-- E-mail: deoliveiratech@gmail.com
+**LinkedIn:** linkedin.com/in/eumesmooliveira  
+**GitHub:** github.com/eumesmooliveira  
+**E-mail:** deoliveiratech@gmail.com

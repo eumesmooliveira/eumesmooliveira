@@ -30,7 +30,7 @@ Atualmente também desenvolvo projetos de automação utilizando **Cypress e Jav
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -40,21 +40,26 @@ Atualmente também desenvolvo projetos de automação utilizando **Cypress e Jav
 ## 🚀 Projetos em destaque
 
 ### 🔹 Cypress API Automation
-Automação de testes de **APIs REST utilizando Cypress e JavaScript**, com validação de respostas HTTP, propriedades de dados e cenários positivos e negativos.
+
+Automação de testes de **APIs REST utilizando Cypress e JavaScript**, com validação de respostas HTTP, propriedades dos dados retornados e cenários positivos e negativos.
 
 O projeto possui **pipeline de Integração Contínua com GitHub Actions**, executando automaticamente a suíte de testes a cada `push` ou `pull request`.
 
 ### 🔹 Automação QA Full Cycle
+
 Projeto de automação envolvendo testes de **API e interface**, aplicação de cenários de QA e geração de evidências de execução.
 
-### 🔹 API Testing com PyTest
-Projeto de automação de testes de API REST utilizando **Python, PyTest e Requests**, com execução automatizada em pipeline CI/CD.
-
 ### 🔹 API Testing — ServeRest
+
 Testes automatizados de API REST envolvendo validação de endpoints, contratos JSON e diferentes ciclos de requisição.
 
 ### 🔹 Automação E2E com Cypress
+
 Automação de cenários **End-to-End (E2E)** para aplicações web utilizando Cypress e JavaScript.
+
+### 🔹 Automação de API com PyTest
+
+Projeto de estudos práticos em automação de testes de API REST utilizando **Python, PyTest e Requests**, explorando validação de endpoints, respostas da API e execução automatizada de testes.
 
 ---
 

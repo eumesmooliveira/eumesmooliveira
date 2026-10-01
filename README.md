@@ -1,12 +1,12 @@
 # Olá, eu sou Felipe de Oliveira Santos 👋
 
-**QA Analyst | QA Automation | Cypress | Playwright | API Testing | CI/CD**
+**QA Analyst | QA Automation | Cypress | Playwright | Robot Framework | API Testing | CI/CD**
 
-Profissional de tecnologia com experiência em **Quality Assurance, análise de sistemas e suporte**, com foco atual em testes de software e automação de testes.
+Profissional de tecnologia com experiência em **Quality Assurance, análise de sistemas e suporte técnico**, com foco atual em testes de software e automação de testes.
 
-Atuo com **testes funcionais e exploratórios, validação de APIs REST, análise de requisitos e regras de negócio, documentação de bugs e validação de dados utilizando SQL**.
+Atuo com **testes funcionais e exploratórios, validação de APIs REST, análise de requisitos e regras de negócio, documentação de bugs e validação de dados com SQL**.
 
-Desenvolvo projetos de automação utilizando **Cypress, Playwright e JavaScript**, abrangendo testes **End-to-End (E2E)** e de **API REST**, arquitetura de automação, qualidade de código, geração de evidências e pipelines de **CI/CD com GitHub Actions**.
+Desenvolvo projetos práticos de automação com **Cypress, Playwright, Robot Framework, Pytest, JavaScript e Python**, abrangendo testes **End-to-End (E2E)** e **API REST**, arquitetura de testes, cenários positivos e negativos, Data-Driven Testing, relatórios, evidências e pipelines de **CI/CD com GitHub Actions**.
 
 ---
 
@@ -21,15 +21,19 @@ Desenvolvo projetos de automação utilizando **Cypress, Playwright e JavaScript
 - Validação de regras de negócio
 - Identificação, reprodução e documentação de bugs
 - Consultas e validações de dados com SQL
-- Automação de testes com Cypress
-- Automação de testes com Playwright
+- Automação com Cypress
+- Automação com Playwright
+- Automação com Robot Framework
+- Automação de API com Pytest e Requests
 - Page Object Model (POM)
 - Service Layer para testes de API
 - Fixtures e gerenciamento de massas de teste
+- Data-Driven Testing
+- Test Templates
 - Integração Contínua com GitHub Actions
 - Quality Gates com ESLint
 - Execução Cross-Browser
-- Geração de relatórios e evidências de execução
+- Geração de relatórios e evidências
 
 ---
 
@@ -37,6 +41,9 @@ Desenvolvo projetos de automação utilizando **Cypress, Playwright e JavaScript
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -52,97 +59,97 @@ Desenvolvo projetos de automação utilizando **Cypress, Playwright e JavaScript
 
 ### 🔹 Full-Cycle QA Automation — v1.0.0
 
-Projeto completo de automação de qualidade desenvolvido com **Cypress e JavaScript**, integrando testes **E2E e API REST** em uma única suíte de automação.
+Projeto completo de automação com **Cypress e JavaScript**, integrando testes **E2E e API REST** em uma única suíte.
 
-Principais características:
-
-- **15 cenários automatizados**
-- **9 testes de API REST**
-- **6 testes E2E**
-- Testes E2E com Cypress
-- Testes de API REST
-- Cenários positivos e negativos
-- Page Object Model (POM)
-- Service Layer para APIs
-- Fixtures para gerenciamento de dados
-- Custom Commands
-- IDs e massas de dados dinâmicas
+- 15 cenários automatizados
+- 9 testes de API REST
+- 6 testes E2E
+- Page Object Model
+- Service Layer
+- Fixtures e Custom Commands
+- Dados dinâmicos
 - Operações autenticadas em API
-- Relatórios HTML com Mochawesome
-- Evidências automáticas em vídeo
-- ESLint para análise estática de código
-- Quality Gate no pipeline
-- CI/CD com GitHub Actions
-- Execução Cross-Browser em Chrome e Firefox
-- Artifacts de execução separados por navegador
-- Estratégia de testes e documentação arquitetural
-- Evidências selecionadas para portfólio
+- Mochawesome
+- Evidências em vídeo
+- ESLint como Quality Gate
+- GitHub Actions
+- Cross-browser em Chrome e Firefox
 
-A versão **v1.0.0** representa a primeira release estável do projeto.
-
-🔗 **Repositório:**  
-https://github.com/eumesmooliveira/automacao-qa-fullcycle
-
-🚀 **Release v1.0.0:**  
-https://github.com/eumesmooliveira/automacao-qa-fullcycle/releases/tag/v1.0.0
+🔗 https://github.com/eumesmooliveira/automacao-qa-fullcycle
 
 ---
 
 ### 🔹 Playwright QA Automation
 
-Projeto de automação de testes desenvolvido com **Playwright e JavaScript**, cobrindo testes **End-to-End (E2E)** e **API REST**.
+Projeto de automação com **Playwright e JavaScript**, cobrindo **E2E e API REST**.
 
-Principais características:
+- 24 testes automatizados
+- Page Object Model
+- Chromium, Firefox e WebKit
+- HTML Report
+- Screenshots, vídeos e traces
+- GitHub Actions
+- Documentação de estratégia e arquitetura
 
-- **24 testes automatizados**
-- Testes E2E com SauceDemo
-- Testes de API REST
-- Page Object Model (POM)
-- Execução cross-browser em Chromium, Firefox e WebKit
-- Relatório HTML nativo do Playwright
-- Screenshots em caso de falha
-- Vídeos de execução
-- Traces para investigação de falhas
-- CI com GitHub Actions
-- Estratégia de testes documentada
-- Documentação arquitetural
-- Evidência real de execução
-- Estrutura preparada para manutenção e evolução da suíte
+🔗 https://github.com/eumesmooliveira/playwright-qa-automation
 
-🔗 **Repositório:**  
-https://github.com/eumesmooliveira/playwright-qa-automation
+---
+
+### 🔹 Robot Framework API Automation
+
+Automação de APIs com **Robot Framework, RequestsLibrary e Python**.
+
+- 31 testes automatizados
+- CRUD
+- Authentication
+- Cenários negativos
+- Data-Driven Testing
+- Test Templates
+- Relatórios nativos do Robot Framework
+- GitHub Actions
+
+🔗 https://github.com/eumesmooliveira/robot-framework-api-automation
+
+---
+
+### 🔹 API Testing with Pytest
+
+Automação de APIs com **Python, Pytest e Requests**.
+
+- 31 testes automatizados
+- CRUD
+- Authentication
+- Cenários negativos
+- Parametrização com Pytest
+- Validação de headers e tempo de resposta
+- Relatório HTML
+- GitHub Actions
+
+🔗 https://github.com/eumesmooliveira/api-testing-pytest
+
+---
+
+### 🔹 API Testing Automation — Postman + Newman
+
+Projeto de automação de APIs com **Postman, Newman e JavaScript**.
+
+- 23 cenários
+- CRUD
+- Authentication
+- Dados dinâmicos
+- Cenários negativos
+- Newman Reporter HTML Extra
+- GitHub Actions
+
+🔗 https://github.com/eumesmooliveira/api-testing-automation
 
 ---
 
 ### 🔹 Cypress API Automation
 
-Automação de testes de **APIs REST utilizando Cypress e JavaScript**, incluindo validação de endpoints, Status Codes, payloads JSON e execução contínua via GitHub Actions.
+Automação de APIs REST utilizando **Cypress e JavaScript**, com validações de endpoints, Status Codes, payloads JSON e fluxos CRUD.
 
 🔗 https://github.com/eumesmooliveira/cypress-api-automation
-
----
-
-### 🔹 Automação de API com PyTest
-
-Projeto prático de automação de testes de API REST utilizando **Python, PyTest e Requests**, explorando validação de endpoints, respostas da API e execução automatizada de testes.
-
-🔗 https://github.com/eumesmooliveira/automacao-api-pytest
-
----
-
-### 🔹 API Testing — ServeRest
-
-Testes automatizados de API REST utilizando **Postman e Newman**, incluindo validação de contratos, variáveis dinâmicas e ciclos de vida de requisições.
-
-🔗 https://github.com/eumesmooliveira/automacao-api-serverest
-
----
-
-### 🔹 Automação E2E com Cypress
-
-Automação de cenários **End-to-End (E2E)** para aplicações web utilizando **Cypress e JavaScript**, com foco em fluxos críticos, elementos visuais e rotas.
-
-🔗 https://github.com/eumesmooliveira/automacao-ui-cypress
 
 ---
 
@@ -169,7 +176,7 @@ Universidade UNIDERP — 2025
 
 ## 🎯 Objetivo profissional
 
-Busco oportunidades nas áreas de **Quality Assurance, Software Testing e QA Automation**, onde eu possa contribuir com minha experiência em testes, APIs, análise de sistemas e automação, enquanto continuo evoluindo em arquitetura de testes, automação e qualidade de software.
+Busco oportunidades em **Quality Assurance, Software Testing e QA Automation**, com foco em testes funcionais, API Testing e automação.
 
 Tenho interesse especial em oportunidades envolvendo:
 
@@ -180,6 +187,8 @@ Tenho interesse especial em oportunidades envolvendo:
 - Test Automation
 - Cypress
 - Playwright
+- Robot Framework
+- Pytest
 - CI/CD
 
 ---
